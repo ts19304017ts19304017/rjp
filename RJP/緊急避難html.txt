@@ -1,0 +1,75 @@
+f7ffad
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>中野ホームページ制作</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<div id="container">
+
+<header>
+<h1 id="logo">ラーメン店一覧</a></h1>
+<aside id="mainimg"><img src="images/mainimg.jpg" alt=""></aside>
+</header>
+
+<nav id="menubar">
+<ul>
+<li><a href="index.html">Home</a></li>
+<li><a href="about.html">お店</a></li>
+<li><a href="gallery.html">歴史</a></li>
+<li><a href="link.html">メンバー</a></li>
+</ul>
+</nav>
+
+<div id="contents">
+
+<section id="new">
+<h2>お店</h2>
+<dl>
+<dt><a href="https://goo.gl/maps/8aGQmsHuG4f6W7PS7" title="メンドコロ　キナリ"><img src="image/kinari.jpg" alt="キナリ" width="200" height="200" />メンドコロ　キナリ(ミシュラン登録店)</a></dt>
+<dd>旨味を味わえる濃口醤油</dd>
+<dd>出汁を楽しめる風味</dd>
+<dd>チャーシューが絶品とも</dd>
+
+<dt><a href="https://goo.gl/maps/6ifEsgdLoPDF15qw7" title="好日"><img src="image/koujitu.jpg" alt="好日" width="200" height="200" />好日(ミシュラン登録店)</a></dt>
+<dd>あっさりめの優しい味のラーメン</dd>
+<dd>天然出汁で作られたスープ</dd>
+<dd>煮卵が人気</dd>
+
+<dt><a href="https://goo.gl/maps/oPEJKBsywUWJsmke7" title="かしわぎ"><img src="image/kasiwagi.jpg" alt="かしわぎ" width="200" height="200" />かしわぎ</a></dt>
+<dd>醤油ラーメン＋味玉が人気</dd>
+<dd>680円のリーズナブルな価格の醤油ラーメンが最高！</dd>
+<dd>塩は飲み干したいほど旨い</dd>
+
+<dt><a href="https://goo.gl/maps/oHCx8n1psXrz1vBS8" title="油そば　油山"><img src="image/abura.jpg" alt="油そば　油山" width="200" height="200" />油そば　油山(ギンザ通り)</a></dt>
+<dd>辛い油そばもある</dd>
+<dd>テーブルに並ぶ調味料のバリエーションが豊富</dd>
+<dd>麺少なめで小食の方も食べやすい</dd>
+
+<dt><a href="https://goo.gl/maps/3MWMv1tTPfcm6eUK7" title="陳麻家東中野駅西口店"><img src="image/maya.jpg" alt="陳麻家東中野駅西口店" width="200" height="200" />陳麻家東中野駅西口店(ギンザ通り)</a></dt>
+<dd>後を引くおいしさ</dd>
+<dd>他の中華料理も評判</dd>
+<dd>辛めの料理がおいしいかも</dd>
+
+<dt><a href="https://goo.gl/maps/cp7AX2YR2gnvTMZ58" title="横浜家系　ラーメン　麺家ばく"><img src="image/baku.jpg" alt="横浜家系　ラーメン　麺家ばく" width="200" height="200" />横浜家系　ラーメン　麺家ばく</a></dt>
+<dd>濃い目のスープ</dd>
+<dd>ライス無料！！お腹いっぱい食べられる！！</dd>
+<dd>深夜までやってる</dd>
+
+<dt><a href="https://goo.gl/maps/T7jr6L9bMshhc4A79" title="ビストロde麺酒場　ひかる"><img src="image/hikaru.jpg" alt="ビストロde麺酒場　ひかる" width="200" height="200" />ビストロde麺酒場　ひかる</a></dt>
+<dd>お酒もうまい！</dd>
+<dd>夏限定の冷麺メニューもうまい</dd>
+<dd>がっつり食べられるラーメン</dd>
+
+</dl>
+</section>
+</div>
+</div>
+</body>
+</html>
