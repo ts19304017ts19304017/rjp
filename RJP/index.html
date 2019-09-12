@@ -4,35 +4,67 @@
 <head>
     <title>東中野ホームページ制作</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="css/style.css">
+    <!--スマホ対応-->
+    <link rel="stylesheet" href="css\index.css">
+<!--     <link rel="icon" href="images/icon.png"> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/bxslider/4.2.12/jquery.bxslider.min.js"></script>
+    <script type="text/javascript">
+    $(document).ready(function() {
+        $('.slider').bxSlider({
+            auto: true,
+            pause: 5000,
+        });
+    });
+    </script><!-- 画像スライド -->
 </head>
 
 <body>
-    <div id="container">
+    <div id="wrapper">
         <header>
-            <h1 id="logo"><a href="index.html">東中野ホームページ（仮）</a></h1>
-           <aside id="mainimg"><img src="images/mainimg.jpg" alt=""></aside>
+            <div id="container">
+                <nav class="header">
+                    <a href="index.html">
+                        <aside id="mainimg"><img src="images/head_ho1.png" alt=""></aside>
+                    </a>
+                </nav>
+                <div>
+                    <ul>
+                        <li><a href="index.html">Home</a></li>
+                        <li><a href="about.html">お店</a></li>
+                        <li><a href="gallery.html">歴史</a></li>
+                        <li><a href="link.html">メンバー</a></li>
+                    </ul>
+                </div>
+                <div class="slider">
+                    <img src="images/pic_1.jpg" width="500" height="300" alt="">
+                    <img src="images/hikaru_reimen.jpg" width="500" height="300" alt="">
+                    <img src="images/kinari.jpg" width="500" height="300" alt="">
+                </div>
+            </div>
         </header>
-        <nav id="menubar">
-            <ul>
-                <li><a href="index.html">Home</a></li>
-                <li><a href="about.html">お店</a></li>
-                <li><a href="gallery.html">歴史</a></li>
-                <li><a href="link.html">メンバー</a></li>
-            </ul>
-        </nav>
         <div id="contents">
             <section id="new">
-                <h2>東中野について</h2>
-                <dl>
-                    <dt>最新の情報</dt>
-                    <dd>誕生日が来ました！！！</dd>
-                    <dt>女王様が誕生しした</dt>
-                    <dd></dd>
-                </dl>
+                <h2>東中野駅</h2>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3239.812594397108!2d139.68162151448797!3d35.70622908018854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f2c83ab1885b%3A0xe192669bb7699073!2z5p2x5Lit6YeO6aeF!5e0!3m2!1sja!2sjp!4v1560145265260!5m2!1sja!2sjp" width="400" height="350" frameborder="0" style="border:0" allowfullscreen></iframe>
+                <div id="akusesu">
+                    <h3>JR東日本　総武（各駅）　中央線</h3>
+                    <p>新宿～東中野４分</p>
+                    <p>中野～東中野２分</p>
+                    <p>三鷹～東中野１８分</p>
+                    <h4>都営大江戸線</h4>
+                    <p>新宿～東中野８分</p>
+                    <p>練馬～東中野９分</p>
+                </div>
             </section>
-        </div>
+        </div><div id="footer">
+        <p><a href="#wrapper">このページの先頭へ</a></p>
+        <dt align="right">ページ作成者</dt>
+        <dd>齊藤</dd>
     </div>
+    </div>
+
 </body>
 
 </html>
