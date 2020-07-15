@@ -15,7 +15,7 @@ f7ffad
 
 <header>
 <h1 id="logo">���[�����X�ꗗ</a></h1>
-//なんだこれ
+//なんだこ
 <aside id="mainimg"><img src="images/mainimg.jpg" alt=""></aside>
 </header>
 
