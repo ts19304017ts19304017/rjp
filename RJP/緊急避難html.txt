@@ -5,7 +5,7 @@ f7ffad
 <!DOCTYPE html>
 <html>
 <head>
-<title>’†–ìƒz[ƒ€ƒy[ƒW§ì</title>
+<title>ï¿½ï¿½ï¿½ï¿½zï¿½[ï¿½ï¿½ï¿½yï¿½[ï¿½Wï¿½ï¿½ï¿½ï¿½</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="css/style.css">
 </head>
@@ -14,58 +14,59 @@ f7ffad
 <div id="container">
 
 <header>
-<h1 id="logo">ƒ‰[ƒƒ““Xˆê——</a></h1>
+<h1 id="logo">ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Xï¿½ê——</a></h1>
+//ãªã‚“ã ã“ã‚Œ
 <aside id="mainimg"><img src="images/mainimg.jpg" alt=""></aside>
 </header>
 
 <nav id="menubar">
 <ul>
 <li><a href="index.html">Home</a></li>
-<li><a href="about.html">‚¨“X</a></li>
-<li><a href="gallery.html">—ðŽj</a></li>
-<li><a href="link.html">ƒƒ“ƒo[</a></li>
+<li><a href="about.html">ï¿½ï¿½ï¿½X</a></li>
+<li><a href="gallery.html">ï¿½ï¿½ï¿½j</a></li>
+<li><a href="link.html">ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½[</a></li>
 </ul>
 </nav>
 
 <div id="contents">
 
 <section id="new">
-<h2>‚¨“X</h2>
+<h2>ï¿½ï¿½ï¿½X</h2>
 <dl>
-<dt><a href="https://goo.gl/maps/8aGQmsHuG4f6W7PS7" title="ƒƒ“ƒhƒRƒ@ƒLƒiƒŠ"><img src="image/kinari.jpg" alt="ƒLƒiƒŠ" width="200" height="200" />ƒƒ“ƒhƒRƒ@ƒLƒiƒŠ(ƒ~ƒVƒ…ƒ‰ƒ““o˜^“X)</a></dt>
-<dd>Ž|–¡‚ð–¡‚í‚¦‚é”ZŒûÝ–û</dd>
-<dd>o`‚ðŠy‚µ‚ß‚é•—–¡</dd>
-<dd>ƒ`ƒƒ[ƒVƒ…[‚ªâ•i‚Æ‚à</dd>
+<dt><a href="https://goo.gl/maps/8aGQmsHuG4f6W7PS7" title="ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½Rï¿½ï¿½ï¿½@ï¿½Lï¿½iï¿½ï¿½"><img src="image/kinari.jpg" alt="ï¿½Lï¿½iï¿½ï¿½" width="200" height="200" />ï¿½ï¿½ï¿½ï¿½ï¿½hï¿½Rï¿½ï¿½ï¿½@ï¿½Lï¿½iï¿½ï¿½(ï¿½~ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½^ï¿½X)</a></dt>
+<dd>ï¿½|ï¿½ï¿½ï¿½ð–¡‚í‚¦ï¿½ï¿½Zï¿½ï¿½ï¿½Ý–ï¿½</dd>
+<dd>ï¿½oï¿½`ï¿½ï¿½ï¿½yï¿½ï¿½ï¿½ß‚é•—ï¿½ï¿½</dd>
+<dd>ï¿½`ï¿½ï¿½ï¿½[ï¿½Vï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½iï¿½Æ‚ï¿½</dd>
 
-<dt><a href="https://goo.gl/maps/6ifEsgdLoPDF15qw7" title="D“ú"><img src="image/koujitu.jpg" alt="D“ú" width="200" height="200" />D“ú(ƒ~ƒVƒ…ƒ‰ƒ““o˜^“X)</a></dt>
-<dd>‚ ‚Á‚³‚è‚ß‚Ì—D‚µ‚¢–¡‚Ìƒ‰[ƒƒ“</dd>
-<dd>“V‘Ro`‚Åì‚ç‚ê‚½ƒX[ƒv</dd>
-<dd>ŽÏ—‘‚ªl‹C</dd>
+<dt><a href="https://goo.gl/maps/6ifEsgdLoPDF15qw7" title="ï¿½Dï¿½ï¿½"><img src="image/koujitu.jpg" alt="ï¿½Dï¿½ï¿½" width="200" height="200" />ï¿½Dï¿½ï¿½(ï¿½~ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½oï¿½^ï¿½X)</a></dt>
+<dd>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ß‚Ì—Dï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½</dd>
+<dd>ï¿½Vï¿½Rï¿½oï¿½`ï¿½Åï¿½ï¿½ê‚½ï¿½Xï¿½[ï¿½v</dd>
+<dd>ï¿½Ï—ï¿½ï¿½ï¿½ï¿½lï¿½C</dd>
 
-<dt><a href="https://goo.gl/maps/oPEJKBsywUWJsmke7" title="‚©‚µ‚í‚¬"><img src="image/kasiwagi.jpg" alt="‚©‚µ‚í‚¬" width="200" height="200" />‚©‚µ‚í‚¬</a></dt>
-<dd>Ý–ûƒ‰[ƒƒ“{–¡‹Ê‚ªl‹C</dd>
-<dd>680‰~‚ÌƒŠ[ƒYƒiƒuƒ‹‚È‰¿Ši‚ÌÝ–ûƒ‰[ƒƒ“‚ªÅ‚I</dd>
-<dd>‰–‚Íˆù‚ÝŠ±‚µ‚½‚¢‚Ù‚ÇŽ|‚¢</dd>
+<dt><a href="https://goo.gl/maps/oPEJKBsywUWJsmke7" title="ï¿½ï¿½ï¿½ï¿½ï¿½í‚¬"><img src="image/kasiwagi.jpg" alt="ï¿½ï¿½ï¿½ï¿½ï¿½í‚¬" width="200" height="200" />ï¿½ï¿½ï¿½ï¿½ï¿½í‚¬</a></dt>
+<dd>ï¿½Ý–ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½{ï¿½ï¿½ï¿½Ê‚ï¿½ï¿½lï¿½C</dd>
+<dd>680ï¿½~ï¿½Ìƒï¿½ï¿½[ï¿½Yï¿½iï¿½uï¿½ï¿½ï¿½È‰ï¿½ï¿½iï¿½ÌÝ–ï¿½ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Åï¿½ï¿½I</dd>
+<dd>ï¿½ï¿½ï¿½Íˆï¿½ï¿½ÝŠï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ù‚ÇŽ|ï¿½ï¿½</dd>
 
-<dt><a href="https://goo.gl/maps/oHCx8n1psXrz1vBS8" title="–û‚»‚Î@–ûŽR"><img src="image/abura.jpg" alt="–û‚»‚Î@–ûŽR" width="200" height="200" />–û‚»‚Î@–ûŽR(ƒMƒ“ƒU’Ê‚è)</a></dt>
-<dd>h‚¢–û‚»‚Î‚à‚ ‚é</dd>
-<dd>ƒe[ƒuƒ‹‚É•À‚Ô’²–¡—¿‚ÌƒoƒŠƒG[ƒVƒ‡ƒ“‚ª–L•x</dd>
-<dd>–Ë­‚È‚ß‚Å¬H‚Ì•û‚àH‚×‚â‚·‚¢</dd>
+<dt><a href="https://goo.gl/maps/oHCx8n1psXrz1vBS8" title="ï¿½ï¿½ï¿½ï¿½ï¿½Î@ï¿½ï¿½ï¿½R"><img src="image/abura.jpg" alt="ï¿½ï¿½ï¿½ï¿½ï¿½Î@ï¿½ï¿½ï¿½R" width="200" height="200" />ï¿½ï¿½ï¿½ï¿½ï¿½Î@ï¿½ï¿½ï¿½R(ï¿½Mï¿½ï¿½ï¿½Uï¿½Ê‚ï¿½)</a></dt>
+<dd>ï¿½hï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Î‚ï¿½ï¿½ï¿½ï¿½ï¿½</dd>
+<dd>ï¿½eï¿½[ï¿½uï¿½ï¿½ï¿½É•ï¿½ï¿½Ô’ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìƒoï¿½ï¿½ï¿½Gï¿½[ï¿½Vï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Lï¿½x</dd>
+<dd>ï¿½Ëï¿½ï¿½È‚ß‚Åï¿½ï¿½Hï¿½Ì•ï¿½ï¿½ï¿½ï¿½Hï¿½×‚â‚·ï¿½ï¿½</dd>
 
-<dt><a href="https://goo.gl/maps/3MWMv1tTPfcm6eUK7" title="’Â–ƒ‰Æ“Œ’†–ì‰w¼Œû“X"><img src="image/maya.jpg" alt="’Â–ƒ‰Æ“Œ’†–ì‰w¼Œû“X" width="200" height="200" />’Â–ƒ‰Æ“Œ’†–ì‰w¼Œû“X(ƒMƒ“ƒU’Ê‚è)</a></dt>
-<dd>Œã‚ðˆø‚­‚¨‚¢‚µ‚³</dd>
-<dd>‘¼‚Ì’†‰Ø—¿—‚à•]”»</dd>
-<dd>h‚ß‚Ì—¿—‚ª‚¨‚¢‚µ‚¢‚©‚à</dd>
+<dt><a href="https://goo.gl/maps/3MWMv1tTPfcm6eUK7" title="ï¿½Â–ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½X"><img src="image/maya.jpg" alt="ï¿½Â–ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½X" width="200" height="200" />ï¿½Â–ï¿½ï¿½Æ“ï¿½ï¿½ï¿½ï¿½ï¿½wï¿½ï¿½ï¿½ï¿½ï¿½X(ï¿½Mï¿½ï¿½ï¿½Uï¿½Ê‚ï¿½)</a></dt>
+<dd>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</dd>
+<dd>ï¿½ï¿½ï¿½Ì’ï¿½ï¿½Ø—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½]ï¿½ï¿½</dd>
+<dd>ï¿½hï¿½ß‚Ì—ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½</dd>
 
-<dt><a href="https://goo.gl/maps/cp7AX2YR2gnvTMZ58" title="‰¡•l‰ÆŒn@ƒ‰[ƒƒ“@–Ë‰Æ‚Î‚­"><img src="image/baku.jpg" alt="‰¡•l‰ÆŒn@ƒ‰[ƒƒ“@–Ë‰Æ‚Î‚­" width="200" height="200" />‰¡•l‰ÆŒn@ƒ‰[ƒƒ“@–Ë‰Æ‚Î‚­</a></dt>
-<dd>”Z‚¢–Ú‚ÌƒX[ƒv</dd>
-<dd>ƒ‰ƒCƒX–³—¿II‚¨• ‚¢‚Á‚Ï‚¢H‚×‚ç‚ê‚éII</dd>
-<dd>[–é‚Ü‚Å‚â‚Á‚Ä‚é</dd>
+<dt><a href="https://goo.gl/maps/cp7AX2YR2gnvTMZ58" title="ï¿½ï¿½ï¿½lï¿½ÆŒnï¿½@ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ë‰Æ‚Î‚ï¿½"><img src="image/baku.jpg" alt="ï¿½ï¿½ï¿½lï¿½ÆŒnï¿½@ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ë‰Æ‚Î‚ï¿½" width="200" height="200" />ï¿½ï¿½ï¿½lï¿½ÆŒnï¿½@ï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½@ï¿½Ë‰Æ‚Î‚ï¿½</a></dt>
+<dd>ï¿½Zï¿½ï¿½ï¿½Ú‚ÌƒXï¿½[ï¿½v</dd>
+<dd>ï¿½ï¿½ï¿½Cï¿½Xï¿½ï¿½ï¿½ï¿½ï¿½Iï¿½Iï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ï‚ï¿½ï¿½Hï¿½×‚ï¿½ï¿½ï¿½Iï¿½I</dd>
+<dd>ï¿½[ï¿½ï¿½Ü‚Å‚ï¿½ï¿½ï¿½Ä‚ï¿½</dd>
 
-<dt><a href="https://goo.gl/maps/T7jr6L9bMshhc4A79" title="ƒrƒXƒgƒde–ËŽðê@‚Ð‚©‚é"><img src="image/hikaru.jpg" alt="ƒrƒXƒgƒde–ËŽðê@‚Ð‚©‚é" width="200" height="200" />ƒrƒXƒgƒde–ËŽðê@‚Ð‚©‚é</a></dt>
-<dd>‚¨Žð‚à‚¤‚Ü‚¢I</dd>
-<dd>‰ÄŒÀ’è‚Ì—â–Ëƒƒjƒ…[‚à‚¤‚Ü‚¢</dd>
-<dd>‚ª‚Á‚Â‚èH‚×‚ç‚ê‚éƒ‰[ƒƒ“</dd>
+<dt><a href="https://goo.gl/maps/T7jr6L9bMshhc4A79" title="ï¿½rï¿½Xï¿½gï¿½ï¿½deï¿½ËŽï¿½ï¿½ï¿½@ï¿½Ð‚ï¿½ï¿½ï¿½"><img src="image/hikaru.jpg" alt="ï¿½rï¿½Xï¿½gï¿½ï¿½deï¿½ËŽï¿½ï¿½ï¿½@ï¿½Ð‚ï¿½ï¿½ï¿½" width="200" height="200" />ï¿½rï¿½Xï¿½gï¿½ï¿½deï¿½ËŽï¿½ï¿½ï¿½@ï¿½Ð‚ï¿½ï¿½ï¿½</a></dt>
+<dd>ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½ï¿½I</dd>
+<dd>ï¿½ÄŒï¿½ï¿½ï¿½Ì—ï¿½Ëƒï¿½ï¿½jï¿½ï¿½ï¿½[ï¿½ï¿½ï¿½ï¿½ï¿½Ü‚ï¿½</dd>
+<dd>ï¿½ï¿½ï¿½ï¿½ï¿½Â‚ï¿½Hï¿½×‚ï¿½ï¿½éƒ‰ï¿½[ï¿½ï¿½ï¿½ï¿½</dd>
 
 </dl>
 </section>
